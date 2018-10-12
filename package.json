@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "jasmine": "^3.1.0",
+    "jasmine-data-provider": "^2.2.0",
+    "jscs": "^3.0.7",
+    "mysql": "^2.15.0",
+    "protractor-pretty-html-reporter": "0.0.16"
+  },
+  "dependencies": {}
+}
